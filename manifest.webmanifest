@@ -3,7 +3,7 @@
   "name": "Internal Beyond",
   "short_name": "Lover",
   "start_url": "/InternalBeyond-Mobil/",
-  "scope": "./",
+  "scope": "/InternalBeyond-Mobil/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#eef3fb",
