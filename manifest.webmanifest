@@ -1,8 +1,8 @@
 {
   "id": "./",
   "name": "Internal Beyond",
-  "short_name": "IB",
-  "start_url": "./",
+  "short_name": "Lover",
+  "start_url": "/InternalBeyond-Mobil/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
